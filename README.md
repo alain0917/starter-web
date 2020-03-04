@@ -1,5 +1,5 @@
 # Starter We Project
-This is only for learning purposes on how to use git and git hub
+This is only for learning purposes on how to use git and git hub. Adding more text for rebasing
 
 ## Introduction
 
