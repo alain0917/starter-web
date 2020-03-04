@@ -13,4 +13,4 @@ Insert purpose
 
 ## Copyright
 
-LAR copyleft :)
+LAR copyleft :) All right reserved
