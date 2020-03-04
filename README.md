@@ -10,3 +10,7 @@ Insert purpose
 ## Description
  Good to have description
 ## How to Contribute 
+
+## Copyright
+
+LAR copyleft :)
