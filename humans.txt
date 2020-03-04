@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+Big thanks to the video for teaching me GIT
 
 # TECHNOLOGY COLOPHON
 
